@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_frontend",
+  "version": "1.0.0",
+  "description": "My priceless Nuxt.js project",
+  "author": "Maxim Lenovo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.4.0",
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.11",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {}
+}
